@@ -16,7 +16,7 @@ A beautiful, modern weather dashboard with glassmorphism design that provides re
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://your-demo-link.com) • [Report Bug](https://github.com/yourusername/weather-dashboard/issues)
+[View Live Demo]([https://your-demo-link.com](https://weather-app-nine-nu-or1hzq16s1.vercel.app/)) 
 
 ## 🛠️ Installation
 
