@@ -16,7 +16,7 @@ A beautiful, modern weather dashboard with glassmorphism design that provides re
 
 ## 🚀 Live Demo
 
-[View Live Demo]([https://your-demo-link.com](https://weather-app-nine-nu-or1hzq16s1.vercel.app/)) 
+[View Live Demo]([https://weather-app-nine-nu-or1hzq16s1.vercel.app/]) 
 
 ## 🛠️ Installation
 
