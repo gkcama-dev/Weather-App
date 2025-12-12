@@ -37,7 +37,7 @@ cd weather-dashboard
    - Get your free API key
    - Replace the API key in `assets/js/script.js`:
    ```javascript
-   const WEATHERAPI_KEY = 'Your API';
+   const WEATHERAPI_KEY = 'YOUR API KEY';
    ```
 
 3. **Open in browser**
